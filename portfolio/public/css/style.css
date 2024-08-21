@@ -92,7 +92,7 @@ header > #header-sideBar >  button{
 /*Resposive Design */ 
 
 
-@media  screen and (min-width:300px)  and (max-width:450px) {
+@media  screen and (min-width:300px)  and (max-width:699px) {
   *{
     padding: 0px;margin: 0px;
   }
@@ -426,7 +426,7 @@ header > #header-sideBar >  button{
 
 
 
-@media screen and (min-width : 650px) and (max-width:2000px)  {
+@media screen and (min-width : 700px) and (max-width:2000px)  {
   /*Header */ 
   header > #header_div1{
     width: 30%;
